@@ -5,9 +5,9 @@ The aim of this project is to create a program that monitors stock of different 
 
 
 # REQUIREMENTS
-Requests
-Discord or Gmail Server
-Rotating Proxies
+* Requests
+* Discord or Gmail Server
+* Rotating Proxies
 
 
 
@@ -16,7 +16,7 @@ Rotating Proxies
 
 
 # TO DO
-Implement Threading to increase speed and efficiency.
-Add more vendors to the list 
-Integration with Gmail
-Integration with Discord Bot 
+* Implement Threading to increase speed and efficiency.
+* Add more vendors to the list 
+* Integration with Gmail
+* Integration with Discord Bot 
