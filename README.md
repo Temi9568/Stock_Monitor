@@ -1,17 +1,19 @@
 ## Stock_Monitor
 
-# DESCRIPTION
+# Description
 The aim of this project is to create a program that monitors stock of different products on some specified vendors. The project will implement oop (thus an instance will have methods that are the names of the specified vendors). The program will ping a discord group chat or an individuals email whenever the product comes back into stock. 
 
 
-# REQUIREMENTS
+# Requirements
 * Requests
-* Discord or Gmail Server
+* Discord OR Gmail Account
 * Rotating Proxies
 
 
+# Current Features
 
-# LIST OF VENDORS PROGRAM SUPPORTS CURRENTLY
+
+# List of Vendors Program Currently Supports
 
 
 
@@ -20,3 +22,5 @@ The aim of this project is to create a program that monitors stock of different 
 * Add more vendors to the list 
 * Integration with Gmail
 * Integration with Discord Bot 
+
+# Example
