@@ -5,7 +5,7 @@ The aim of this project is to create a program that monitors stock of different 
 
 
 # Requirements
-* Python dependencies: requests, bs4
+* Python dependencies: requests, bs4, smptlib, discord
 * Proxies (more/rotating == better)
 * Discord OR Gmail Account
 
