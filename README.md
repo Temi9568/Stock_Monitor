@@ -5,9 +5,9 @@ The aim of this project is to create a program that monitors stock of different 
 
 
 # Requirements
-* Requests
+* Python dependencies: requests, bs4
+* Proxies (more/rotating == better)
 * Discord OR Gmail Account
-* Rotating Proxies
 
 
 # Current Features
@@ -24,3 +24,7 @@ The aim of this project is to create a program that monitors stock of different 
 * Integration with Discord Bot 
 
 # Example
+
+
+# Disclaimer
+* This project is for educational purposes only.
